@@ -215,7 +215,7 @@ button:focus {
 
 /* skills */
 #skills {
-  background-color: var(--color-accent-variant);
+  background-color: var(--color-primary-variant);
   color: var(--color-text);
 }
 .tools {
